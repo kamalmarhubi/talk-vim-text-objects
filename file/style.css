@@ -1,0 +1,13 @@
+/* enable ligatures */
+html { text-rendering: optimizeLegibility }
+
+.black {
+  background: black;
+  /* color: white; */
+}
+
+.hide { color: rgba(0,0,0,0) }
+
+.highlight { color: red }
+
+.smbullets ul { list-style: none }
